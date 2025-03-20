@@ -40,7 +40,7 @@ I'm motivated by tackling challenges and working in different environments.
 
 ### Contacts
 
-* [LinkedIn] https://www.linkedin.com/in/helder-valabh-510451160/
+* [LinkedIn](https://www.linkedin.com/in/helder-valabh-510451160/)
 
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! You can check my Linkedin to have a broader view of my career so far 😃
