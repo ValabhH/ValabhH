@@ -27,7 +27,7 @@ I'm always eager to learn new things! Right now, I'm focusing on:
 
 ### Projects
 
-* [ChatBots With PDF](Link to Project 1): Brief description.
+* [ChatBots With PDF](https://github.com/ValabhH/PDFChatBot.git): This bot is used for Q&A using PDF Files.
 
 
 ### Interests
